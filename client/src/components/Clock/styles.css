@@ -1,13 +1,13 @@
 .date{
     display: flex;
     justify-content: flex-end;    
-    font-size: 214px;
+    font-size: 300px;
 }
 
 .time{
     display: flex;
     justify-content: flex-end;
-    font-size: 195px;
+    font-size: 300px;
 }
 
 .sun-rise-set-container{
